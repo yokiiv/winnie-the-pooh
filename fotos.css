@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    background-color: #e6aa73;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #c0692e;
+}
+nav a {
+    color: #000000;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: table;
+    font-size: 30px;
+}
+nav a:hover {
+    background-color: #995223;
+}
+.um{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #e6aa73;
+    border-radius: 10px;
+    background-color: #e6aa73;
+    text-align: center;
+}
+.dois{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #e6aa73;
+    border-radius: 10px;
+    background-color: #e6aa73;
+    text-align: center;
+}
+.tres{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #e6aa73;
+    border-radius: 10px;
+    background-color: #e6aa73;
+    text-align: center;
+}
+.test{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #e6aa73;
+    border-radius: 10px;
+    background-color: #e6aa73;
+    text-align: center;
+    color: #000000;
+}
+p{
+    font-size: 50px;
+}
+footer{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    color: #fdd47b;
+    background-color: white;
+}
+.lego{
+    background-color: #fcea94;
+    color: #ffffff;
+    padding: 0px;
+    text-align: center;
+}
+.hana{
+    display: grid;
+}

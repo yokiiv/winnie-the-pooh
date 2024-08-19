@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    background-color: #e6aa73;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #c0692e;
+}
+nav a {
+    color: #000000;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: table;
+    font-size: 30px;
+}
+nav a:hover {
+    background-color: #995223;
+}
+footer{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    color: #fdd47b;
+    background-color: white;
+}
+.lego{
+    background-color: #fcea94;
+    color: #ffffff;
+    padding: 0px;
+    text-align: center;
+}
+.texto{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #e6aa73;
+    border-radius: 10px;
+    background-color: #e6aa73;
+    text-align: center;
+    font-size: 30px;
+}
+.formu{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #e6aa73;
+    border-radius: 10px;
+    background-color: #e6aa73;
+    text-align: center;
+    font-size: 30px;
+}
+.bate{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #e6aa73;
+    border-radius: 10px;
+    background-color: #e6aa73;
+    text-align: center;
+}
+button{
+    color: #995223;
+    background-color: #ebb18b;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: center;
+    font-size: 20px;
+    border-radius: 10%;
+    border-color: #995223;
+    width: 110px;
+}
+button:hover{
+    background-color: #ca906a;
+}
